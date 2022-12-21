@@ -258,7 +258,7 @@ section {
 --------------------------------------------------------------*/
 .header {
    z-index: 997;
-   position: fixed;
+   position: absolute;
    padding: 10px 0;
    top: 0;
    left: 0;
