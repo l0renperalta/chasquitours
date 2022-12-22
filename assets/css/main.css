@@ -258,7 +258,7 @@ section {
 --------------------------------------------------------------*/
 .header {
    z-index: 997;
-   position: absolute;
+   position: fixed;
    padding: 10px 0;
    top: 0;
    left: 0;
@@ -1509,7 +1509,7 @@ section {
 .project-details .portfolio-info .btn-visit {
    padding: 8px 40px;
    background: var(--color-primary);
-   color: #fff;
+   color: rgb(0, 0, 0);
    border-radius: 50px;
    transition: 0.3s;
 }
